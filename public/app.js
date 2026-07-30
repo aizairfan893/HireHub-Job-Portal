@@ -1,4 +1,4 @@
-const API = "http://localhost:5000";
+const API = "https://hirehub-job-portal-production-41e6.up.railway.app";
 
 
 // ================= LOAD JOBS =================
